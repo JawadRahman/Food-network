@@ -9,7 +9,7 @@ h1{
     
 }
 .orange-clr{
-    color: rgb(243, 165, 20);
+    color: rgb(243, 83, 20);
 }
 .flexible-container{
     display: flex;
@@ -41,9 +41,6 @@ h2{
     font-size:30px ;
     color: grey;
     font-weight: bold;
-}
-.tomato{
-    color: tomato;
 }
 .person{
     margin-top: 35px;
@@ -95,12 +92,15 @@ h3{
     text-align: center;
     color: rgb(128, 128, 128);
 }
+.food-clr{
+    color: hsl(17, 90%, 52%);
+}
 #footer-p{
     text-align: center;
     color: white;
     
 }
 footer{
-    
+    padding: 1%;
     background-color:rgb(0, 7, 48);
 }
