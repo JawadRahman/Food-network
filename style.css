@@ -89,13 +89,13 @@ h2{
     padding-left: 10%;
 } 
 .stat-info{
-    border: 1px solid white;
+    border: 1px solid whitesmoke;
     margin: 10%;
     box-shadow: 5px 10px 40px;
     border-radius: 20px;
 }
-.half-width2 h2{
-    
+.half-width2 h3{
+    text-align: left;
     color: black;
 }
 .feedback-clr{
