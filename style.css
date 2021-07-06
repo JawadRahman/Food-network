@@ -67,6 +67,7 @@ h2{
 }
 .food-item h2{
     text-align: left;
+    color: black;
 }
 .food-item p{
     text-align: left;
@@ -74,7 +75,22 @@ h2{
 .food-img{
     margin-top: 5%;
 }
+.half-width2{
+    width: 50%;
+    padding-left: 10%;
+} 
+.stat-info{
+    border: 1px solid white;
+    margin: 10%;
+    box-shadow: 5px 10px 40px;
+    border-radius: 20px;
+}
+.half-width2 h2{
+    
+    color: black;
+}
 h3{
+    
     font-size: 25px;
     text-align: center;
     color: rgb(128, 128, 128);
@@ -82,7 +98,9 @@ h3{
 #footer-p{
     text-align: center;
     color: white;
+    
 }
 footer{
-    background-color:rgb(8, 13, 43);
+    
+    background-color:rgb(0, 7, 48);
 }
