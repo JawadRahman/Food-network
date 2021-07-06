@@ -34,11 +34,14 @@ h1{
 .aboutme{
     background-image: url(img/7.png);
     background-repeat: no-repeat;
-    
+    margin-bottom: 150px;
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 h2{
-    font-size:30px ;
+    font-size:40px ;
     color: grey;
     font-weight: bold;
 }
@@ -54,19 +57,21 @@ h2{
 }
 .food-item{
     width: 80%;
+    margin-top: 2%;
     margin-left:5% ;
     margin-right: 10%;
-    padding-left: 1%;
-    padding-right: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
     box-shadow: 5px 10px 40px;
-    border-radius: 10px;
+    border-radius: 5%;
     
 }
 .food-flexible{
     display: flex;
-    width: 70%;
+    width: 60%;
     margin-top: 5%;
-    padding-left:8% ; 
+    padding-left:8% ;
+    padding-right: 5%; 
     
 }
 .food-item h2{
@@ -92,6 +97,9 @@ h2{
 .half-width2 h2{
     
     color: black;
+}
+.feedback-clr{
+    color: red;
 }
 h3{
     
